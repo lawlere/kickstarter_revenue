@@ -20,7 +20,7 @@ p revenue_per_day = 290110.060337635
 
 p percentage_of_revenue_that_kickstarter_keeps = 0.05
 
-p revenue_per_day * percentage_of_revenue_that_kickstarter_keeps = 
+p revenue_per_day * percentage_of_revenue_that_kickstarter_keeps = 14505.5030168818
 
 p revenue_per_day_that_kickastarter_can_keep = 14505.5030168818
 
